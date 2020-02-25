@@ -15,6 +15,11 @@ Politics: In political field, it is used to keep track of political view, to det
 
 Public Actions: Sentiment analysis also is used to monitor and analyse social phenomena, for the spotting of potentially dangerous situations and determining the general mood of the blogosphere.
 
+Sentiment analysis can be used to:
+
+Analyze tweets and/or Facebook posts over a period of time to detect the sentiment of a particular audience. Monitor social media mentions of your brand and automatically categorize it by urgency. Automatically route social media mentions to team members best fit to respond.
+
+
 Installation:
 
 Tweepy: tweepy is the python client for the official Twitter API.
