@@ -19,7 +19,7 @@ Sentiment analysis can be used to:
 
 Analyze tweets and/or Facebook posts over a period of time to detect the sentiment of a particular audience. Monitor social media mentions of your brand and automatically categorize it by urgency. Automatically route social media mentions to team members best fit to respond.
 
-
+##Code Can't be disclosed as part of the legalities involoved, only very high level presentation is shared and available research papers on the Business problem context because I feel working in data science and machine learning is an exciting and challenging field. New techniques and tools are constantly percolating and honestly, it can feel overwhelming. Many of these new developments are found and first revealed in academic research articles. Extracting knowledge from these articles is difficult because the intended audience of these papers tend to be other researchers. Yet in order to stay current reading papers is an essential skill — luckily one that can be improved with diligence and practice.
 Installation:
 
 Tweepy: tweepy is the python client for the official Twitter API.
